@@ -1,0 +1,36 @@
+h1 {
+    color: white;
+    background-color: forestgreen;
+}
+
+.center {
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+}
+
+header{
+    background: rgba(153, 255, 153, 0.25);
+}
+
+.bold {
+    font-weight: bold;
+    font-size: x-large;
+    color: forestgreen;
+}
+
+.large {
+    font-size: large;
+    font-weight:bold;
+    margin-top: 1px;
+}
+
+.margin {
+    margin-top: 1px;
+
+}
+
+.bold2 {
+    font-weight: bold;
+    font-size: x-large;
+}
